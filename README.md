@@ -6,7 +6,8 @@
     - [Introduction](#introduction)
 - [Process + Development](#process-+-development)
     - [HTML + CSS + Tailwind Development](#html-+-css+-tailwind-development)
-    - [New Year Website](#new-year-website)
+    - [React Development](#react-development)
+    - [Valentines Website](#valentines-website)
 - [Author](#author)
 
 ## Overview
@@ -20,8 +21,12 @@
 - This section shows the code templates.
 - The templates are in the folder blueprint.
 
-### New Year Website
-- Link - [Valentines Website]()
+### React Development
+- This section shows the template codes modified to React.
+- The React codes are in the folder valentines.
+
+### Valentines Website
+- [Valentines](https://happy-valentines-website.vercel.app/)
 
 ## Author
 
