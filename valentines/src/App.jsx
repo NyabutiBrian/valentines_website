@@ -5,6 +5,10 @@ import Landing from './pages/Landing';
 import Yes from './pages/Yes';
 import No from './pages/No';
 
+import { inject } from '@vercel/analytics';
+ 
+inject();
+
 function App() {
 
   return (
