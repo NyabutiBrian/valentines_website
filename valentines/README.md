@@ -72,4 +72,3 @@ Currently, two official plugins are available:
 
 ## Author
 - Momanyi Brian - [Website](https://momanyi-brian-portfolio.vercel.app)
-- Elijah
